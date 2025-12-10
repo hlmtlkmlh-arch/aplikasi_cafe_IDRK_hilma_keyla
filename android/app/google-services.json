@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700276656646",
+    "project_id": "hilma-1f152",
+    "storage_bucket": "hilma-1f152.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700276656646:android:55d35325ea74058e199187",
+        "android_client_info": {
+          "package_name": "com.example.hilma_uprak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRjyAHk0I4UCITmQ0F-gP9-uNsfmNhU4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
